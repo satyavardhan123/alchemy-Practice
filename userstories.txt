@@ -1,0 +1,54 @@
+User stories :
+
+User stories typically follow a simple template:
+
+As a <type of user>
+I want <some goal>
+So that <some reason>
+
+User Story: Submit Assignment Online
+
+As a student,
+I want to be able to submit my assignments online,
+So that I don't have to physically hand them in to my teacher.
+
+Who: Who is the user requesting the feature? (e.g., student)
+What: What functionality are they looking for? (e.g., submit assignments online)
+Why: What benefit will they gain from this feature? (e.g., easier submission process)
+
+Acceptance Criteria:
+- A "Submit Assignment" button is visible on the assignment details page.
+- When the student clicks the "Submit Assignment" button, they are presented with a file upload dialog.
+- The student can select a file from their device to upload.
+- After the file is uploaded, the student sees a confirmation message that the assignment has been submitted.
+
+
+Tasks:
+- Implement "Submit Assignment" button on assignment details page.
+- Create file upload dialog for assignment submission.
+- Handle file upload and storage for submitted assignments.
+- Display confirmation message to student after successful assignment submission.
+
+In the realm of user stories, the 3 Cs stand for:
+
+Card
+
+Conversation
+
+Confirmation
+
+INVESTing in user stories
+
+it helps us to create a more meaningful user stories 
+
+Independent-stories should be independent of one another so that each of them can be developed and delivered
+
+Negotiable-Stories should be discussable and should be open for negotiation
+
+Valuable-the story must add value to the customer
+
+Estimate-The stories must be estimate and can be divide in tasks
+
+Small-Stories should not be too long.So that it can handle better
+
+Testable-They should have acceptance criteria to check whether we fulfilled the customers needs or not
